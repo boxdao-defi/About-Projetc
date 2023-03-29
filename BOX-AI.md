@@ -1,4 +1,6 @@
 # About-Projetc
+![capa twitter (2)](https://user-images.githubusercontent.com/129009245/228394104-7cc013f1-bfdc-4d8b-9825-0c6dc9d0ea1e.png)
+
 DeFi platform, for everyone who believes in decentralization as a best solution. Our platform solves problems in the DeFi space connected to payments, custody, minting, token locks and liquidity and fundraising.
 BOX-AI: is the governance token of our DeFi Rewards Platform. The project will provide a decentralized investment option, so that investors always have control over their funds, 100% automated and instantaneous. A secure staking solution, farms, exchange and AI-powered trading technology coming soon so you can earn without having to trade.
 
